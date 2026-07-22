@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Alpha-blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Frontend](https://img.shields.io/badge/Frontend-Next.js_14-black)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-Apache_2.0-green)
 ![Architecture](https://img.shields.io/badge/Architecture-Event--Driven_Microservices-orange)
 
 **DocIntel Pro** is a high-throughput, **Agentic Document Processing System** designed to transform unstructured documents (PDFs, Images) into structured, actionable intelligence. It leverages state-of-the-art **Visual Language Models (VLMs)** like **Qwen2-VL** (via Fireworks AI) to perform unified layout analysis, OCR, and semantic understanding in a single pass.
@@ -146,4 +146,4 @@ Contributions are welcome! Please fork the repository and submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
